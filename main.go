@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"actshad.dev/modbus"
-	"greetings"
-	"rsc.io/quote")
+	"rsc.io/quote"
+	"github.com/stadlaa/go_prototype/greetings/greetings)
 func main() {
 	
 	fmt.Println(quote.Go())

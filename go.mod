@@ -1,4 +1,4 @@
-module go-prototype
+module github.com/stadlaa/go_prototype
 
 go 1.22.3
 
